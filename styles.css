@@ -1,0 +1,31 @@
+body {background-color: Black;
+}
+body {
+	background-color: black;
+	color: white;
+}
+body {
+	font-family: Arial, sans-serif; 
+}
+h1 {
+	font-size: 20px;
+}
+p {
+	font-size: 12px; 
+	color: Green;
+	}
+.new {
+	border-style: dotted; 
+	border-width: 2px;
+	width: 100px;
+	height: 100px;
+}
+div {
+	class="new"
+}
+ol {
+	list-style-type: upper-latin;
+}
+ul {
+	list-style-type: square;
+}
