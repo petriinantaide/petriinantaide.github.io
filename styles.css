@@ -19,6 +19,7 @@ topnav {
   color: white;
 }
 article {
+	font-size: 150px;
   float: right;
   padding: 25px;
   width: 75%;
