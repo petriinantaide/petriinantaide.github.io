@@ -18,6 +18,13 @@ header {
   background-color: black;
   color: white;
 }
+article {
+  float: right;
+  padding: 25px;
+  width: 75%;
+  background-color: #FFFFFF;
+  height: 300px;
+}
 section {
   content: "";
   display: table;
