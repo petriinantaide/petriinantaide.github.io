@@ -13,7 +13,7 @@ header {
   font-size: 50px;
   color: white;
 }
-.topnav {
+topnav {
   overflow: hidden;
   background-color: black;
   color: white;
@@ -30,10 +30,10 @@ section {
   display: table;
   clear: both;
 }
-.column.side {
+column-side {
   width: 20%;
 }
-.column.middle {
+column-middle {
   width: 80%;
 }
 h1 {
